@@ -17,7 +17,7 @@ import org.springframework.stereotype.Service;
 
 import com.dext.rest.entity.Articles;
 import com.dext.rest.entity.NewsEntity;
-import com.dext.rest.service.repository.NewsRepository;
+import com.dext.rest.repository.NewsRepository;
 
 @Service
 public class GetUpdates {
