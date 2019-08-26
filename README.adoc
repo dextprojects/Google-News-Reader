@@ -48,8 +48,8 @@ https://maven.apache.org/run-maven/index.html[Maven v3.5.0 or above].
 == Run Application
 Ways to run application:
 
-* From Eclipse: By running main class RestApplication.java as 'Java Application'. 
-* From STS: By running application as 'Spring Boot Application'.
+* From Eclipse: By running main class RestApplication.java as `Java Application`. 
+* From STS: By running application as `Spring Boot Application`.
 * From cmd: Go to Project directory and run below command.
 
 [indent=0]
